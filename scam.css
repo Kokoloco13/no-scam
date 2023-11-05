@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-family: roboto;
+}
+
+.scam-box {
+    border-radius: 9px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    width: 150px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#scam-but {
+    margin-top: 15px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: padding 0.2s;
+}
+
+#scam-but:hover {
+    padding-right: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+#heading {
+    margin-top: 60px;
+}
